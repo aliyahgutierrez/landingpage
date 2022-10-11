@@ -1,0 +1,49 @@
+*{
+    font-family: "Silkscreen";
+}
+
+/* nav bar */
+
+.topnav{
+    background-color:lawngreen;
+    overflow: hidden;
+}
+
+.topnav a{
+    float:left;
+    color: #24325fff;
+    text-align:center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size:17px;
+}
+
+.topnav a:hover{
+    color:white;
+}
+
+header{
+    background-color:#Fafd7cff;
+    color: #b7e4f9ff;
+    text-align:center;
+}
+
+.image-section{
+    background-color:#526e2dff;
+    text-align:center;
+    padding: 20px;
+}
+
+#picklerick{
+    padding: 10px;
+}
+
+.container{
+    background-color: #82491eff;
+    text-align:center;
+}
+
+#krombopulos{
+    height: 50%;
+    width: 50%;
+}
